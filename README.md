@@ -15,6 +15,24 @@ This project focuses on the **Exploratory Data Analysis (EDA)** and **Predictive
     * **K-Nearest Neighbors (KNN)**
     * **Support Vector Machine (SVM)**
 
+## 🖼️ Project Visualizations
+
+### Status Distribution
+![Status Counts](assets/bar%20chart.png)
+
+### Correlation Analysis
+![Correlation Matrix](assets/Correlation%20Analysis%20.png)
+
+### Clustering Patterns
+![K-Means Clusters](assets/K-Means.png)
+
+### Predictive Modeling Results
+![Decision Tree](assets/Decision%20Tree.png)
+![Naive Bayes Confusion Matrix](assets/Confusion%20Matrix-Naive%20Bayes.png)
+
+### Urgency Level Distribution
+![Urgency Levels](assets/Pie%20chart.png)
+
 ## 🛠️ Tech Stack
 * **Language:** R
 * **Libraries:** `ggplot2`, `corrplot`, `car`, `cluster`, `caTools`, `e1071`, `rpart`, `class`
